@@ -6,7 +6,7 @@ Desenvolvido na linguagem Python, com o uso da biblioteca Kivy, o projeto oferec
 
 📱 A aplicação é projetada para funcionar em smartphones com o sistema operacional Android, e o deploy foi realizado utilizando o Google Colab (última atualização em 17/10/2023)..
 
-DESENVOLVIMENTO FRONT / BACK : [Visite jonata perfil no GitHub](https://github.com/JonaThFelix), Jorge, Victor e Henrique </br></br>
+DESENVOLVIMENTO FRONT / BACK :  Jonata [perfil no GitHub](https://github.com/JonaThFelix), Jorge, Victor e Henrique </br></br>
 UX/UI : Azuos, Thiago
 
 
