@@ -4,9 +4,9 @@ O projeto foi concebido em Python, empregando a biblioteca Kivy, com o propósit
 
 Desenvolvido na linguagem Python, com o uso da biblioteca Kivy, o projeto oferece uma interface intuitiva que permite o cumprimento das funcionalidades estabelecidas no escopo e protótipos definidos.</br></br>
 
-📱 A aplicação é projetada para funcionar em smartphones com o sistema operacional Android, e o deploy foi realizado utilizando o Google Colab (última atualização em 17/10/2023)..
+📱 A aplicação é projetada para funcionar em smartphones com o sistema operacional Android, </b></br> e o deploy foi realizado utilizando o Google Colab (última atualização em 17/10/2023)..
 
-DESENVOLVIMENTO FRONT / BACK :  (Jonata[perfil no GitHub](https://github.com/JonaThFelix)), Jorge, (Victor[perfil no GitHub](https://github.com/VictorLPSRD)), (Henrique[perfil no GitHub](https://github.com/JonaThFelix)) </br></br>
+DESENVOLVIMENTO FRONT / BACK :  (Jonata[perfil no GitHub](https://github.com/JonaThFelix)),  </b></br>Jorge, (Victor[perfil no GitHub](https://github.com/VictorLPSRD)), (Henrique[perfil no GitHub](https://github.com/JonaThFelix)) </br></br>
 UX/UI : Azuos, (Thiago[perfil no GitHub](https://github.com/thiagovilar07))
 
 
