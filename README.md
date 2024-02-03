@@ -10,7 +10,6 @@ DESENVOLVIMENTO FRONT / BACK :  (Jonata[perfil no GitHub](https://github.com/Jon
 UX/UI : Azuos, (Thiago[perfil no GitHub](https://github.com/thiagovilar07))
 
 
-[imagem da aplicação](IMG%20aplicação.jpeg)
-
+![Screenshot da Página](aplicação.jpeg)
 
 
